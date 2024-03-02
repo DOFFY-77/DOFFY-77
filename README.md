@@ -2,7 +2,7 @@
 
 # Hi there, I'm Khalid👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOFFY-77&theme=merkok&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOFFY-77&theme=radical&show_icons=true)
 ## Full-Stack Developer, and Data Scientist !!
 -  Hi 👋, I’m @Khalid benhadou Developer Full-Stack & Data Scientist
 - 👀 I’m interested in :<br>
