@@ -2,31 +2,26 @@
 
 # Hi there, I'm Khalid👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOFFY-77&theme=onedark&show_icons=true)
 ## Spring boot Developer, and Data Scientist !!
--  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
+-  Hi 👋, I’m @Khalid benhadou Developeur Ful-Stack & Data Scientist
 - 👀 I’m interested in :<br>
-        ☕ BackEnd <br>
-          &nbsp; &nbsp;✔️ Java : java doc | Core Java | POO | JDBC | IO | Jee  <br>
-          &nbsp; &nbsp;✔️ Java 8 : STREAM | LAMBDA EPRESSIONS | FUNCTIONAL INTERFACES | OPTIONAL | DEFAULT | ... <br>
-          &nbsp; &nbsp;✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL  <br>
-          &nbsp; &nbsp;✔️ Tools : MAVEN | GIT | GITHUB <br>
+        ☕ Full-Stack <br>
+          &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
-          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | H2<br>
+          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB <br>
           &nbsp; &nbsp;✔️ Others : LOMBOK | Hibernate <br>
         🤖 Artificial Intelligence <br>
-          &nbsp; &nbsp;✔️ DATA MINING <br>
           &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
           &nbsp; &nbsp;✔️ DEEP LEARNING <br>
-          &nbsp; &nbsp;✔️ INFORMATION RETRIEVAL <br>
         
-- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
+- 🌱 I’m currently Ph.D. student in Developper Web Full-stack<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
-- 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
+- 🥅 2024 Goals: Learn more about Java, Spring Boot and Computer Vision  <br>
+- 📫 How to reach me : Email : khalid.benhadou.00@gmail.com / Phone : +212 643 434 644 <br>
 
 
 ### 📕 Latest Papers About Computer Vision
@@ -41,7 +36,7 @@
 
 ### 💻 Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -61,6 +56,6 @@
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" style="padding-right:10px;" />
--->
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=DOFFY-77&show_icons=true&theme=tokyonight)
-<img src='jj.webp'>
+
+
+
