@@ -21,7 +21,7 @@
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies and adding crucial improvements
 - 🥅 2024 Goals: Learn more about Machine Learning,Cloud , and AI projects  <br>
-- 📫 How to reach me : Email : khalid.benhadou.00@gmail.com / Phone : +212 643 434 644 <br>
+- 📫 How to reach me : Email : benhadou.khalid.00@gmail.com / Phone : +212 643 434 644 <br>
 
 ### 💻 Top Programming Languages
 
